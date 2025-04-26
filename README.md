@@ -82,8 +82,9 @@
  ## 🧪 How to Run the Project
  
  ### Requirements:
+ 
  -Node.js >=18
- -Python >=3.10
+ - Python >=3.10
  - fast api
  - uvicorn
  

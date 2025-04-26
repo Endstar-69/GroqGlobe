@@ -119,11 +119,11 @@ uvicorn main:app --reload
  
  ## 📎 Resources / Credits
  
- -FastAPI
- -Tesseract js
- -groq 
- -llama 3.1 
- -8b instant model
+  -FastAPI
+  -Tesseract js
+  -groq 
+  -llama 3.1 
+  -8b instant model
  
  ---
  

@@ -25,8 +25,8 @@
  SKY TECH
  
  ### Team Members:  
- - Akash Kumar Koley (@Endstar-69 / )  
- - Aritra Patra ( / Backed Developer) 
+ - Akash Kumar Koley (@Endstar-69 /Frontend Developer)  
+ - Aritra Patra ( /Backed Developer) 
  - Priyam Naskar( / )
  - Polumi Ghosh(@poulami067/Designer)
  

@@ -66,7 +66,7 @@
  
  ## 📽️ Demo & Deliverables
  
- - **Demo Video Link:** [Paste YouTube or Loom link here]  
+ - **Demo Video Link:** [https://drive.google.com/file/d/1nG8tbDYY6wyp7lJOz5kOw6VU17q3jf8i/view?usp=sharing]  
  - **Pitch Deck / PPT Link:** [https://docs.google.com/presentation/d/1sQPlnw1M7xftwTTeJpC8o-3Q8z8xeXx_/edit?usp=sharing&ouid=105345559278859123807&rtpof=true&sd=true]
  
  ---

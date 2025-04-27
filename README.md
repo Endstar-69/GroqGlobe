@@ -27,8 +27,8 @@
  ### Team Members:  
  - Akash Kumar Koley (@Endstar-69 /Frontend Developer)  
  - Aritra Patra (@Aritra-666 /Backed Developer) 
- - Priyam Naskar(@PriyamNaskar /PPT designer )
- - Polumi Ghosh(@poulami067/Designer)
+ - Priyam Naskar(@PriyamNaskar / Asst. Backed Developer )
+ - Polumi Ghosh(@poulami067/Asst. Frontend Developer)
  
  
  ### Your Approach:  
